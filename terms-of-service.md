@@ -1,6 +1,3 @@
----
-layout: none
----
 # Terms of Service
 
 **Last updated: September 13, 2026**
